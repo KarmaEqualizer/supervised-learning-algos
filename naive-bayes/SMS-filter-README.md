@@ -19,3 +19,6 @@ Most Informative Features
                   length = 'long'           spam : ham    =      3.0 : 1.0
      contains_spam_words = False             ham : spam   =      2.4 : 1.0
         contains_weblink = False             ham : spam   =      1.5 : 1.0
+        
+        
+Ipython Notebook: http://nbviewer.ipython.org/gist/anandshudda/1ef24148f79634f6e62d
